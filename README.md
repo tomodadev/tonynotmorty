@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ILDANTA [https://ildanta.netlify.app/]<br>🌱 I’m currently learning **react, block chain, solidity**<br>💬 Ask me about **react, javascript**<br>🎓 Education **Korea University, Biosystems and Biomedical Sciences(2015~ )**
+🌱 I’m currently learning **react, block chain, solidity**<br>💬 Ask me about **react, javascript**<br>🎓 Education **Korea University, Biosystems and Biomedical Sciences(2015~ )**
 
 
 ## 🌐 Socials:
